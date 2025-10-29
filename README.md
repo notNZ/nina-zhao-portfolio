@@ -1,35 +1,22 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
+# About me
+Hi! I'm Nina Zhao, welcome to my portfolio. I am an second-year Accelerated Master student at Cargenie Mellon University's Information Systems Managament Program, and I studied Statistics and Decision Science at Carnegie Mellon for my undergraduate degree. I use she/her pronouns. 
 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+I am a problem-solver. I love telling stories from data and finding the logic and stories behind complexity. After graudation, I want to pursue a career in consulting. 
+
+Apart from academia and career, I am a dancer and choreographer, and an art lover. 
+
+# What I hope to learn
+I wish to acquire applicable design skills and communicate my analysis through data in a professional but creative way. Specifically, I with to learn about: 
+
+- Designing and arranging charts
+- Combining analysis with data graphs
+- Building a data design portfolio
+- Make effective data designs
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
-
-# About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
-
-# What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
-
-# Portfolio
-
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
@@ -83,7 +70,14 @@ Alternately, you can set the size of the image using just a bit of HTML:
 
 <img src="funny-dog-unsplash.jpg" width="200"/>
 
-Remember that you'll need to upload the image into your repository, or include a link to the image somewhere else.  
+Remember that you'll need to upload the image into your repository, or include a link to the image somewhere else. 
+
+# TSWD-portfolio-templates
+These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
+It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
+
+- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
+- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 ### Setting up a separate page
 
