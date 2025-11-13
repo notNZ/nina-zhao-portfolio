@@ -17,7 +17,10 @@ However, while the interactivity works well, I found the use of circles somewhat
 ## Step three: Sketch a solution
 I did two sketches with one changing the format to horizontal bars, while the other one focuses on the underpaid gap between female and male soccer players. 
 
+<img width="782" height="673" alt="Screenshot 2025-11-13 at 2 17 38 PM" src="https://github.com/user-attachments/assets/63644eac-f763-4a50-9aee-043e413baeed" />
+
 For the first sketch, I focused on the comparison between female and male soccer player's individual pay. 
+<img width="584" height="712" alt="Screenshot 2025-11-13 at 2 17 50 PM" src="https://github.com/user-attachments/assets/dd7da3e2-aa74-45f8-81a6-f47e209e0a4b" />
 
 For the second sketch, I followed a makeover reference video and focused on the difference between female and male players' pay by changing the entire structure. 
 
