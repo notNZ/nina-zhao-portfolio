@@ -1,15 +1,16 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Title
-Text here...
-
 _For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
 
 _You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
 
 ## Step one: the visualization
+<img width="1143" height="650" alt="Screenshot 2025-11-12 at 11 16 27 PM" src="https://github.com/user-attachments/assets/d99583dc-2be5-4a01-8813-bdee91bcad34" />
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+Murray, Caitlin. “Revealed: the $730,000 gender pay gap in US World Cup bonuses.” The Guardian, 28 June 2019. Available at: https://www.theguardian.com/football/ng-interactive/2019/jun/28/revealed-the-731003-gender-pay-gap-in-us-world-cup-bonuses
+
+I was drawn to this data visualization because I’m personally interested in gender pay gaps and their impact on female athletes. The interactive design by The Guardian illustrates how the U.S. Women’s National Team earns significantly less than their male counterparts, even when achieving the same or better results in the World Cup. The cumulative circle animation, where earnings build as I scroll, clearly communicates the scale of inequality while maintaining an engaging storytelling style. It not only visualizes the numbers but also emphasizes the broader issue of gender equity in professional sports—making it both informative and emotionally compelling for readers like me who care about fairness and representation in athletics.
 
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
