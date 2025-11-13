@@ -26,7 +26,6 @@ For the first sketch, I focused on the comparison between female and male soccer
 
 For the second sketch, I followed a makeover reference video and focused on the difference between female and male players' pay by changing the entire structure. 
 
-*_Kriebel, A. (2023, approx.). The $730,000 Gender Pay Gap in USA Soccer Bonuses [Video]. YouTube. https://www.youtube.com/watch?v=rFaduuRHyUs_*
 
 ## Step four: Test the solution
 
@@ -56,13 +55,13 @@ From the peer feedback, a few clear patterns emerged. All of them agreed that th
 
 ## Step five: build the solution
 
-<div class='tableauPlaceholder' id='viz1763007023457' style='position: relative'><noscript><a href='#'><img alt='How Underpaid were the US Female Soccer Players in the World Cup? ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Un&#47;UnderpaidUSFemaleSoccerPlayer&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='UnderpaidUSFemaleSoccerPlayer&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Un&#47;UnderpaidUSFemaleSoccerPlayer&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<div class='tableauPlaceholder' id='viz1763067637434' style='position: relative'><noscript><a href='#'><img alt='How Underpaid were the US Female Soccer Players in the World Cup? ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Un&#47;UnderpaidUSFemaleSoccerPlayer&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='UnderpaidUSFemaleSoccerPlayer&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Un&#47;UnderpaidUSFemaleSoccerPlayer&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
-  var divElement = document.getElementById('viz1763007023457');                    
+  var divElement = document.getElementById('viz1763067637434');                    
   var vizElement = divElement.getElementsByTagName('object')[0];                    
   vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
   var scriptElement = document.createElement('script');                    
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                  vizElement.parentNode.insertBefore(scriptElement, vizElement);               
 </script>
 
 My final redesign focuses on improving clarity, proportional accuracy, and storytelling in visualizing the gender pay gap between male and female U.S. soccer players in the World Cup. Using Tableau, I created a horizontal bar chart that clearly compares earnings for each stage of the tournament, from qualifying to total pay. This layout makes it much easier for viewers to read and compare values side by side. I used orange for women and gray for men, following peer feedback to make the female data stand out while keeping the male data neutral for contrast. I also highlighted the “Total Pay” row by adjusting spacing and color intensity so it stands out as the main takeaway.
@@ -73,7 +72,7 @@ Looking ahead, I could further develop this visualization by adding stronger emp
 
 
 ## References
-Murray, Caitlin. “Revealed: the $730,000 gender pay gap in US World Cup bonuses.” The Guardian, 28 June 2019. Available at: https://www.theguardian.com/football/ng-interactive/2019/jun/28/revealed-the-731003-gender-pay-gap-in-us-world-cup-bonuses
+Murray, Caitlin. “Revealed: the $730,000 gender pay gap in US World Cup bonuses.” The Guardian, 28 June 2019. from https://www.theguardian.com/football/ng-interactive/2019/jun/28/revealed-the-731003-gender-pay-gap-in-us-world-cup-bonuses
 
 Kriebel, A. (2023, approx.). The $730,000 Gender Pay Gap in USA Soccer Bonuses [Video]. YouTube. https://www.youtube.com/watch?v=rFaduuRHyUs
 
