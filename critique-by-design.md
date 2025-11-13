@@ -4,8 +4,10 @@
 
 
 ## Step one: the visualization
+
+The dataset used in this project comes from The Guardian’s article “Revealed: the $730,000 gender pay gap in US World Cup bonuses” by Caitlin Murray (2019). It compares the bonus earnings of male and female U.S. soccer players based on their performance in the World Cup, using figures from the U.S. Soccer Federation’s collective bargaining agreements. The data includes categories such as qualification bonuses, per-match wins, knockout-stage progress, and final championship rewards. Each value represents the maximum potential earning per player under each contract, allowing for a clear comparison between men’s and women’s compensation structures. The dataset highlights a significant gender pay disparity—showing that even when women achieve equal or greater success, their bonuses remain substantially lower than those of their male counterparts.
+
 <img width="1143" height="650" alt="Screenshot 2025-11-12 at 11 16 27 PM" src="https://github.com/user-attachments/assets/d99583dc-2be5-4a01-8813-bdee91bcad34" />
-*Murray, Caitlin. “Revealed: the $730,000 gender pay gap in US World Cup bonuses.” The Guardian, 28 June 2019. Available at: https://www.theguardian.com/football/ng-interactive/2019/jun/28/revealed-the-731003-gender-pay-gap-in-us-world-cup-bonuses*
 
 I was drawn to this data visualization because I’m personally interested in gender pay gaps and their impact on female athletes. The interactive design by The Guardian illustrates how the U.S. Women’s National Team earns significantly less than their male counterparts, even when achieving the same or better results in the World Cup. The cumulative circle animation, where earnings build as I scroll, clearly communicates the scale of inequality while maintaining an engaging storytelling style. It not only visualizes the numbers but also emphasizes the broader issue of gender equity in professional sports—making it both informative and emotionally compelling for readers like me who care about fairness and representation in athletics.
 
