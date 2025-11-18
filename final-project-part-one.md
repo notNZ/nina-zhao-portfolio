@@ -1,9 +1,14 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
+
+Title: How Long Until Your College Degree Pays for Itself?
+
+College is one of the biggest financial decisions young adults make, yet students often select majors or schools without understanding how long it takes for their educational investment to pay off. This project visualizes the payback period of a U.S. college degree — defined as the number of years it takes for cumulative earnings to surpass the total cost of attendance.
+
+My goal is to help audiences such as high school students, families, and college counselors make more informed choices by showing how payback varies dramatically across majors and institutions, even when degrees cost similar amounts. This project aims to reveal where the value of college is highest, where it is lowest, and how equity factors may influence outcomes.
+
 Hook — The Problem
 
 College is expensive, but financial outcomes vary dramatically.
