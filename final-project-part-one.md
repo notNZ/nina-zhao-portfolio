@@ -4,13 +4,27 @@
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+Hook — The Problem
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+College is expensive, but financial outcomes vary dramatically.
+“Is college worth it?” is too vague; what matters is when it pays back.
+Insight — Introducing the Payback Period
 
-Text here...
+“Years until earnings recoup cost of attendance” as an intuitive measure of return.
+Evidence — Visual Comparisons
+
+Majors ranked by fastest vs slowest payback periods
+School-level variation
+STEM vs Business vs Arts comparison
+Interpretation — Why These Patterns Occur
+
+Wages, tuition, and living costs drive differences
+Some expensive schools compensate with high earnings; others do not
+Call to Action — What People Can Do
+
+Students can weigh debt risk vs. return
+Policymakers / institutions can improve transparency
+
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
