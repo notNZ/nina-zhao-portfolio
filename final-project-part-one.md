@@ -57,9 +57,9 @@ College Scorecard Data Home: https://collegescorecard.ed.gov/data/_
 |      |     |             |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+I will clean and prepare the data outside of Tableau by merging the two College Scorecard datasets (Field of Study and Institution-Level) using the shared UNITID column, and then calculating the payback period from cost and earnings. I will do the cleaning in R or SQL to make sure the data is in a usable format before importing it into Tableau.
 
-Text here...
+After the data is cleaned, I will build the visualizations in Tableau. The final project will be presented as an interactive web page on GitHub Pages, with the Tableau visualizations embedded so the viewer can scroll through the story and interact with the charts. My goal is to combine narrative and visual exploration so that the audience can understand the message while also exploring the data on their own.
 
 ## References
 _List any references you used here._
