@@ -42,18 +42,6 @@ thus gathering more information before deciding.
 
 
 # The data
-The data for this project comes from the U.S. Department of Education’s College Scorecard, which publishes publicly available information about college costs and post-graduation earnings. I chose this source because it provides both of the numbers needed to calculate the payback period of a college degree: the average cost of attendance and the median earnings after graduation.
-
-I am using two datasets. The Most Recent Data by Field of Study gives median earnings 10 years after graduation for each major at each institution. The Most Recent Institution-Level Data provides the average annual cost of attendance for each school. I will combine these datasets using the shared column UNITID, and then calculate payback period as:
-
-**Payback = Cost of Attendance / Median Earnings**
-
-This combined dataset will allow me to compare how quickly a degree pays for itself across majors and across schools.
-
-Public access to the data:
-_
-College Scorecard Data Home: https://collegescorecard.ed.gov/data/_
-
 
 | Name | URL | Description |
 |------|-----|-------------|
