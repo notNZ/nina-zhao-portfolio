@@ -10,7 +10,6 @@ College is one of the biggest financial decisions young adults make, yet student
 My goal is to help audiences such as high school students, families, and college counselors make more informed choices by showing how payback varies dramatically across majors and institutions, even when degrees cost similar amounts. This project aims to reveal where the value of college is highest, where it is lowest, and how equity factors may influence outcomes.
 
 1. Hook — The Problem
-
 College is expensive, but financial outcomes vary dramatically.
 “Is college worth it?” is too vague; what matters is when it pays back.
 
@@ -22,7 +21,6 @@ Evidence — Visual Comparisons
 School-level variation: private v. public institutions
 STEM vs Business vs Arts comparison
 Interpretation — Why These Patterns Occur
-
 
 4. Popular/ unpopular majors' payback periods
 Popular majors: CS, Engineering, Business, etc.
