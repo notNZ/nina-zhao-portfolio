@@ -9,32 +9,35 @@ College is one of the biggest financial decisions young adults make, yet student
 
 My goal is to help audiences such as high school students, families, and college counselors make more informed choices by showing how payback varies dramatically across majors and institutions, even when degrees cost similar amounts. This project aims to reveal where the value of college is highest, where it is lowest, and how equity factors may influence outcomes.
 
-Hook — The Problem
+1. Hook — The Problem
 
 College is expensive, but financial outcomes vary dramatically.
 “Is college worth it?” is too vague; what matters is when it pays back.
-Insight — Introducing the Payback Period
+
+2. Insight — Introducing the Payback Period
 
 “Years until earnings recoup cost of attendance” as an intuitive measure of return.
 Evidence — Visual Comparisons
 
-Majors ranked by fastest vs slowest payback periods
-School-level variation
+3. Majors ranked by fastest vs slowest payback periods
+School-level variation: private v. public institutions
 STEM vs Business vs Arts comparison
 Interpretation — Why These Patterns Occur
 
-Wages, tuition, and living costs drive differences
-Some expensive schools compensate with high earnings; others do not
-Call to Action — What People Can Do
-
-Students can weigh debt risk vs. return
-Policymakers / institutions can improve transparency
-
+4. Popular/ unpopular majors' payback periods
+Popular majors: CS, Engineering, Business, etc.
+Unpopular majors: Anthopology, Sociology, Music performance, etc. 
+   
+5. Call for action
+Institutions should have more transparency and post the payback period for each major/ program.
+High school students can look at what major they want to study and do a comparison with other majors in terms of payback period,
+thus gathering more information before deciding. 
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+<img width="921" height="502" alt="Screenshot 2025-11-18 at 7 56 24 PM" src="https://github.com/user-attachments/assets/dbbecb4e-b673-4f8d-9646-0ffa1ec5150b" />
+<img width="851" height="537" alt="Screenshot 2025-11-18 at 7 56 39 PM" src="https://github.com/user-attachments/assets/8e839ff5-ffab-4aa3-b57e-de20a6cd16a7" />
 
-Text here...
+I am also planning on doing a heatmap of majors v. payback period, where the popular majors are on the top left, and the unpopular majors are on the bottom right, representing by blue and orange. 
 
 # The data
 The data for this project comes from the U.S. Department of Education’s College Scorecard, which publishes publicly available information about college costs and post-graduation earnings. I chose this source because it provides both of the numbers needed to calculate the payback period of a college degree: the average cost of attendance and the median earnings after graduation.
@@ -62,7 +65,8 @@ I will clean and prepare the data outside of Tableau by merging the two College 
 After the data is cleaned, I will build the visualizations in Tableau. The final project will be presented as an interactive web page on GitHub Pages, with the Tableau visualizations embedded so the viewer can scroll through the story and interact with the charts. My goal is to combine narrative and visual exploration so that the audience can understand the message while also exploring the data on their own.
 
 ## References
-_List any references you used here._
+ College Board data: https://collegescorecard.ed.gov/data/ 
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used AI to help me find relevant datasets. Prompt: "I want to explore the relationship between college major and payback periods, is there a dataset I could use?"
+
