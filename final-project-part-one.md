@@ -15,7 +15,6 @@ College is expensive, but financial outcomes vary dramatically.
 “Is college worth it?” is too vague; what matters is when it pays back.
 
 2. Insight — Introducing the Payback Period
-
 “Years until earnings recoup cost of attendance” as an intuitive measure of return.
 Evidence — Visual Comparisons
 
@@ -41,7 +40,6 @@ thus gathering more information before deciding.
 
 <img width="878" height="556" alt="Screenshot 2025-11-18 at 8 12 28 PM" src="https://github.com/user-attachments/assets/fc09c1f4-a9a5-4b96-a4f0-3f760fcb2633" />
 
-I am also planning on doing a heatmap of majors v. payback period, where the popular majors are on the top left, and the unpopular majors are on the bottom right, representing by blue and orange. 
 
 # The data
 The data for this project comes from the U.S. Department of Education’s College Scorecard, which publishes publicly available information about college costs and post-graduation earnings. I chose this source because it provides both of the numbers needed to calculate the payback period of a college degree: the average cost of attendance and the median earnings after graduation.
