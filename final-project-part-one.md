@@ -24,6 +24,7 @@ School-level variation: private v. public institutions
 STEM vs Business vs Arts comparison
 Interpretation — Why These Patterns Occur
 
+
 4. Popular/ unpopular majors' payback periods
 Popular majors: CS, Engineering, Business, etc.
 Unpopular majors: Anthopology, Sociology, Music performance, etc. 
@@ -35,7 +36,10 @@ thus gathering more information before deciding.
 
 ## Initial sketches
 <img width="921" height="502" alt="Screenshot 2025-11-18 at 7 56 24 PM" src="https://github.com/user-attachments/assets/dbbecb4e-b673-4f8d-9646-0ffa1ec5150b" />
-<img width="851" height="537" alt="Screenshot 2025-11-18 at 7 56 39 PM" src="https://github.com/user-attachments/assets/8e839ff5-ffab-4aa3-b57e-de20a6cd16a7" />
+
+<img width="784" height="565" alt="Screenshot 2025-11-18 at 8 12 01 PM" src="https://github.com/user-attachments/assets/4f143a51-31a5-4121-8f35-870bb17444d4" />
+
+<img width="878" height="556" alt="Screenshot 2025-11-18 at 8 12 28 PM" src="https://github.com/user-attachments/assets/fc09c1f4-a9a5-4b96-a4f0-3f760fcb2633" />
 
 I am also planning on doing a heatmap of majors v. payback period, where the popular majors are on the top left, and the unpopular majors are on the bottom right, representing by blue and orange. 
 
