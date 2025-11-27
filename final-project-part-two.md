@@ -54,8 +54,15 @@ Based on interview feedback, students responded strongly to the visualizations b
 
 
 ## References
-_List any references you used here._
+U.S. Department of Education. College Scorecard: Most Recent Cohorts – Field of Study and Institution Data.
+Accessed November 2025.
+https://collegescorecard.ed.gov/data/
+
+Carnevale, Anthony, Ban Cheah, and Bryan Fry. The Economic Value of College Majors.
+Georgetown University Center on Education and the Workforce, 2021.
+https://cew.georgetown.edu/cew-reports/valueofcollegemajors/
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used ChatGPT to help me with Tableau and Shorthand when running into technical difficulties. 
+Prompt example: "How do I move the title box on top of the two graphs?"
 
