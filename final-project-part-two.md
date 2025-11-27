@@ -34,9 +34,10 @@ Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| What influenced your major choice? | Followed passion but felt unsure about job stability; didn’t think about debt when deciding            |     Picked based on employability; compared job prospects across majors        |      Family encouraged “practical” major; student unsure whether they actually like it       |How do you feel about student loans?
-|        Very concerned but unsure how repayment works                 |          Believes loans are manageable if salary is high                      |       Avoids thinking about loans because it feels overwhelming      |     After seeing payback-period data, do you feel more or less confident about your major choice? Would this information change anything for you?          |Yes — would have compared across majors
-|          Yes — might reconsider concentration within major               |                Yes — wants to align passion with a financially realistic plan                |             |             |
+| What influenced your major choice? | Followed passion but felt unsure about job stability; didn’t think about debt when deciding            |     Picked based on employability; compared job prospects across majors        |      Family encouraged “practical” major; student unsure whether they actually like it       |
+|        How do you feel about student loans?                 |          Very concerned but unsure how repayment works                    |       Avoids thinking about loans because it feels overwhelming      |     Believes loans are manageable if salary is high        |
+After seeing payback-period data, do you feel more or less confident about your major choice? Would this information change anything for you?  
+|          Yes — might reconsider concentration within major               |                Yes — wants to align passion with a financially realistic plan                |     Yes — would have compared across majors        |             |
 
 
 # Identified changes for Part III
