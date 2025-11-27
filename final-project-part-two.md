@@ -47,7 +47,7 @@ Based on interview feedback, students responded strongly to the visualizations b
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | Students felt unsure how to interpret some graphs without explanation |Add short takeaway captions directly beneath each visualization and highlight key numbers within the graphs| Students wanted more actionable guidance, not only data
-|            Add a final section titled “How to use this information when choosing a major” with 3–5 bullet points for decision-making                              |                                                                                 |
+|            Students wanted more actionable guidance, not only data           |       Add a final section titled “How to use this information when choosing a major” with 3–5 bullet points for decision-making                                                                                             |
 |                                          |                                                                                 |
 |                                          |                                                                                 
                                                                              |
