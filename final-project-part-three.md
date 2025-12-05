@@ -1,36 +1,47 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+https://carnegiemellon.shorthandstories.com/does-your-college-major-really-pay-off/index.html
 
-Text here!
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
+Since completing Part II, I made several key changes to strengthen both the clarity of my narrative and the effectiveness of my visualizations. First, I refined my story structure to create a smoother flow from the introduction to the final call-to-action. This included rewriting sections to be more concise, removing excessive numerical details, and emphasizing the emotional and practical implications of choosing a major. 
 
-Text here!
+I also redesigned multiple charts based on instructor and TA feedback. I clarified titles, added contextual explanations, cited the sources, and adjusted color palettes to highlight the most important takeaways. I annotated the outliners for the two scatterplots to clearly show the distinction between majors in regards to payback periods. 
+
+Finally, I incorporated a stronger call-to-action Checklist by adding resources such as major-to-career guides and college planning tools.  These additions ensure that the story does not simply present data, but empowers students to make more informed decisions about their futures.
+
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+The primary audience for my final data story is college students, specifically those who have not yet chosen a major or who are unsure about the long-term consequences of their choice. Through my interviews, I learned that many students choose majors based on passion, familiarity, or peer influence, but very few understand how different majors translate into debt, payback periods, and early career earnings. Several interviewees admitted they didn’t even know what “loan repayment period” meant. This reinforced the need for a story that is clear, visual, and accessible, rather than technical or overwhelming.
 
-Text here!
+To make the project work for this audience, I intentionally avoided jargon and focused on storytelling. I used student-oriented imagery and included relatable examples that reflect the anxieties students shared during interview. I also added a practical section at the end that points students toward resources like major-to-career guides and financial planning tools.
+
 
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
+Throughout this project, I made several intentional design choices to balance storytelling with analytical depth. One major decision was using soft, consistent color palettes to ensure the visuals felt approachable rather than technical or intimidating. Another was simplifying the charts: instead of showing every possible comparison, I selected only the visuals that directly supported the story’s narrative.
 
-Text here!
+I also chose to highlight only a few key outliers rather than labeling the entire dataset. This helps guide the viewer's attention without cluttering the visuals. In addition, I used layout decisions in Shorthand like large section headers, whitespace, and quotes to break up the story and create natural emotional beats.
+
+From a storytelling perspective, I learned the importance of limiting numbers and telling a story through complex data. Rather than overwhelming readers with data, I reframed insights by incorporating interview feedback and my audience's needs. This process taught me how design, narrative, and data work together, and how removing elements can be just as impactful as adding them.
+
 
 ## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+All primary data used in the project comes from publicly accessible U.S. Department of Education College Scorecard datasets (Most Recent Cohorts — Field of Study & Institution files). Full citations and links are included directly on the Shorthand story.
+
+Additional references:
+
+Georgetown University Center on Education and the Workforce. The Economic Value of College Majors. https://cew.georgetown.edu/cew-reports/valueofcollegemajors/ 
+
+No copyrighted images or restricted media were used. All datasets are open and publicly accessible. The GitHub page includes links back to the original sources for transparency.
+
 
 ## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
+I used ChatGPT to help me rephrase sentences. 
+Example prompt: help me rephrase this "I learned to reduce contents and focus on the audience". 
 
-Text here!
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!
+I really enjoyed this project - the process of building a story from scratch using a complex dataset. I love the process of refining my approaches during this process and tailoring my data and story to my audience. One challenge I faced was that there was not enough time for Part II. I had troubles with Tableau and Excel data cleaning. Fortunately I was able to finish and refine them in Part III. Overall, I had fun with this project, and I hope to continue with my telling stories with data journey in my future career. 
 
 
